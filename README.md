@@ -1,5 +1,7 @@
 # 📊 Invoice Dashboard App
 This is a simple invoice management dashboard built with **React** and **Tailwind CSS**. It allows users to manage clients and invoices, track their payment statuses, and get a quick overview of financial activities.
+### 💻 Demo
+[Demo link](https://stackblitz.com/edit/vitejs-vite-9xpvuy75?file=README.md)
 ## 🚀 Features
 - Add and manage clients
 - Create new invoices
