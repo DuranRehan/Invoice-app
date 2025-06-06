@@ -1,0 +1,78 @@
+{
+  "header": {
+    "dashboard": "Tableau de bord",
+    "invoices": "Factures",
+    "clients": "Clients",
+    "settings": "Paramètres"
+  },
+  "layout": {
+    "dashboard": "Tableau de bord",
+    "create_invoice": "Créer une facture",
+    "edit_invoice": "Modifier la facture",
+    "view_invoice": "Voir la facture",
+    "invoices": "Factures",
+    "add_client": "Ajouter un client",
+    "edit_client": "Modifier le client",
+    "clients": "Clients",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "new_invoice": "Nouvelle facture",
+    "add_client": "Ajouter un client",
+    "paid_invoice": "Factures payées",
+    "pending_invoice": "En attente",
+    "overdue_invoice": "En retard",
+    "total_invoices": "Total des factures",
+    "recent_invoices": "Factures récentes",
+    "view_all_invoices": "Voir tout",
+    "summary": "Résumé",
+    "client_label": "Clients",
+    "invoice_label": "Factures",
+    "invoice_status": "Statut de la facture",
+    "paid_label": "Payée",
+    "pending_label": "En attente",
+    "overdue_label": "En retard",
+    "no_recent_invoices": "Aucune facture récente trouvée."
+  },
+  "invoices": {
+    "list": {
+      "all_filter_label": "Tous",
+      "paid_filter_label": "Payées",
+      "send_filter_label": "Envoyées",
+      "overdue_filter_label": "Dépassées",
+      "draft_filter_label": "Brouillons",
+      "cancelled_filter_label": "Annulées",
+      "allStatus_filter_label": "Tous les statuts",
+      "allClients_filter_label": "Tous les clients",
+      "startDate_filter_label": "Date de début",
+      "endDate_filter_label": "Date de fin",
+      "filter_label": "Filtres",
+      "clear_filters": "Effacer les filtres",
+      "search_placeholder": "Rechercher par numéro de facture, client",
+      "invoice_number_label": "FACTURE #",
+      "client_label": "Client",
+      "date": "Date",
+      "due_date": "Date d'échéance",
+      "amount": "Montant",
+      "status": "Statut",
+      "actions": "Actions",
+      "view_details": "Voir",
+      "edit_invoice": "Modifier",
+      "delete_invoice": "Supprimer",
+      "create_invoice": "Créer une facture",
+      "invoice_not_found": "Facture non trouvée. Essayez d'ajuster les filtres ou créer une nouvelle facture.",
+      "delete_confirmation": "Êtes-vous sûr de vouloir supprimer cette facture ? Cette action est irréversible."
+    },
+
+    "view": {
+      
+    }
+  },
+  "status": {
+    "paid": "Payée",
+    "sent": "Envoyée",
+    "overdue": "Dépassées",
+    "draft": "Brouillon",
+    "cancelled": "Annulée"
+  }
+}

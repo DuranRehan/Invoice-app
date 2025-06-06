@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+  
+  input, select, textarea {
+    @apply focus:outline-none;
+  }
+}
+
+@layer components {
+  .dropdown:hover .dropdown-menu {
+    @apply block;
+  }
+}
+
+@layer utilities {
+  .scrollbar-stable {
+    scrollbar-gutter: stable;
+  }
+}
